@@ -8,17 +8,13 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!--
 <?php include("include/google-analytics.php"); ?>
--->
 
 </head>
 <body>
 
 <header>
-<!--
 <?php include("include/google-ads.php"); ?>
--->
 <h1>WrpTool</h1>
 <p>Welcome to WrpTool.</p>
 </header>
