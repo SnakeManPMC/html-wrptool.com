@@ -33,7 +33,7 @@
 <p>WrpTool is one util to create OFP Islands / terrains, all you need is notepad + PBO packer and you're capable of doing excellent islands. WrpTool edits all aspects of the basic terrain + objects.
 </p>
 
-<p> This project started Jan 23rd, 2003 (or bit sooner even), first real working wrp island made by us was done this day. Initial team was Rom and Snake Man, Dschulle joined in later. But with sad events regarding MLOD converter and BAS, April 2004 Rom decided to quit from the team. We will miss him. We will try to continue working on this utility so that one day we have program that easily lets user to build and edit OFP Wrp Islands without working for months about it.
+<p>This project started Jan 23rd, 2003 (or bit sooner even), first real working wrp island made by us was done this day. Initial team was Rom and Snake Man, Dschulle joined in later. But with sad events regarding MLOD converter and BAS, April 2004 Rom decided to quit from the team. We will miss him.
 </p>
 
 <p>Current features of the utility:<br>
@@ -75,7 +75,7 @@ How <a href="images/wrp.gif">cells</a> are set up. How <a href="images/Forest.gi
 </section>
 
 <footer>
-<p><a href="http://tactical.nekromantix.com/ofp/">PMC Tactical Operation Flashpoint</a></p>
+<p><a href="http://tactical.nekromantix.com/ofp/">PMC Tactical Operation Flashpoint</a>, <a href="http://pmc.editing.wiki">PMC Editing Wiki</a></p>
 <p><i>PMC WrpTool 2003 - <?print(date("Y"));?>.</i></p>
 <?php include("include/w3-validator-logo.php"); ?>
 </footer>
