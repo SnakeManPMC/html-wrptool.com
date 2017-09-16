@@ -117,8 +117,8 @@ First experiment to place certain <a href="images/wrptool-09.jpg">objectives per
 
 <footer>
 <p>Back to <a href="index.php">PMC WrpTool root page</a></p>
-<p><a href="http://tactical.nekromantix.com/ofp/">PMC Tactical Operation Flashpoint</a>, <a href="http://pmc.editing.wiki">PMC Editing Wiki</a></p>
-<p><i>PMC WrpTool 2003 - <?print(date("Y"));?>.</i></p>
+<p><a href="http://www.pmctactical.org/ofp/">PMC Tactical Operation Flashpoint</a>, <a href="http://pmc.editing.wiki">PMC Editing Wiki</a></p>
+<p><i>PMC WrpTool 2003 - <?php print(date("Y")); ?>.</i></p>
 <?php include("include/w3-validator-logo.php"); ?>
 </footer>
 
