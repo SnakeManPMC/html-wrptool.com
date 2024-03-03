@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>WrpTool - News</title>
+<title>WrpTool Operation Flashpoint Terrain Editor - News</title>
 <LINK href="css.css" rel=stylesheet type="text/css">
-<META name="description" content="WrpTool News">
-<META name="keywords" content="WrpTool, PMC, News">
+<META name="description" content="WrpTool Operation Flashpoint Terrain Editor - News">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -14,12 +13,11 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
-<h1><b>PMC WrpTool News</b></h1>
+<h1>PMC WrpTool News</h1>
 </header>
 
 <section>
-<h2>WrpTool News</h2>
+	<h2>WrpTool News</h2>
 
 <p><b>--- Oct 28th, 2016. wrptool.com domain opened!</b><br>
 Today we opened <b>wrptool.com</b> for a new official homepage for WrpTool! :)
@@ -76,7 +74,7 @@ Today we opened <b>wrptool.com</b> for a new official homepage for WrpTool! :)
 </p>
 
 <p><b>--- May 30th, 2003.</b><br>
-Object browser is where we can select 3d objects to place into the map, when one object is selected we point to mouse cursor over the area and ALT-left mouse button press places the object. Its very easy to see the actual <a href="images/wrptool-22.jpg">p3d object graphics</a> in the bitmap preview of object browser.<br>
+Object browser is where we can select 3d objects to place into the terrain, when one object is selected we point to mouse cursor over the area and ALT-left mouse button press places the object. Its very easy to see the actual <a href="images/wrptool-22.jpg">p3d object graphics</a> in the bitmap preview of object browser.<br>
 <a href="images/wrptool-23.jpg">Closeup of the objects</a> indicates clearly the object rotation, meaning where the object is facing. This is very important to give the terrain vegetation &quot;natural&quot; look.
 </p>
 
@@ -98,7 +96,7 @@ First experiment to place certain <a href="images/wrptool-09.jpg">objectives per
 <p>This aerial image shows <a href="images/wrptool-06.jpg">transition</a> features in work, now the terrain starts to look rather good.
 </p>
 
-<p>With the normal sized map the number of objects were tested; <a href="images/wrptool-05.jpg">925,000 random</a> 3d objects placed all over the (land) map. There was some slight lag on 1.3ghz 512mb ram machine, but still playable just like my old 450mhz, 384mb ram machine.
+<p>With the normal sized terrain the number of objects were tested; <a href="images/wrptool-05.jpg">925,000 random</a> 3d objects placed all over the (land) terrain. There was some slight lag on 1.3ghz 512mb ram machine, but still playable just like my old 450mhz, 384mb ram machine.
 </p>
 
 <p>This shot is the first of the fixed 3d <a href="images/wrptool-04.jpg">object placement</a> function where we do not place trees and stuff into the water anymore (more or less).
@@ -107,10 +105,10 @@ First experiment to place certain <a href="images/wrptool-09.jpg">objectives per
 <p>Mission <a href="images/wrptool-01.jpg">editor view</a> of 51.2km x 51.2km island, not all fits in the screen and another image ingame where Cobra is flying <a href="images/wrptool-02.jpg">AI waypoint</a> above ocean. This is first success on BMP <a href="images/wrptool-03.jpg">bitmap painting</a> to place textures in the terrain according to the RGB colors.
 </p>
 
-<p>Next we did some elevations and got tree to &quot;fit to ground&quot; with <a href="images/RomIsGreat5.jpg">32768 object</a> elevation. Then we go wild and place 200,000 <a href="images/RomIsGreat6.jpg">random trees</a> into 25.6km x 25.6km map. And also we did some torture testing on default sized island, with 500,000 <a href="images/RomIsGreat7.jpg">random objects</a> fit to ground.<br>
+<p>Next we did some elevations and got tree to &quot;fit to ground&quot; with <a href="images/WrpTool-Development-5.jpg">32768 object</a> elevation. Then we go wild and place 200,000 <a href="images/WrpTool-Development-6.jpg">random trees</a> into 25.6km x 25.6km terrain. And also we did some torture testing on default sized island, with 500,000 <a href="images/WrpTool-Development-7.jpg">random objects</a> fit to ground.<br>
 </p>
 
-<p>Some screenshots of the the work this util can do. <a href="images/RomIsGreat.jpg">First image</a> at Jan 23rd, 2003, showing just flat terrain with one object - a tree. Next image is bit buggy code, <a href="images/RomIsGreat2.jpg">bunch of trees</a> in a line. Then we get to some lag tests, first <a href="images/RomIsGreat3.jpg">200,000 trees</a> then <a href="images/RomIsGreat4.jpg">500,000 trees</a> all on flat 50m elevation terrain.
+<p>Some screenshots of the the work this util can do. <a href="images/WrpTool-Development-1.jpg">First image</a> at Jan 23rd, 2003, showing just flat terrain with one object - a tree. Next image is bit buggy code, <a href="images/WrpTool-Development-2.jpg">bunch of trees</a> in a line. Then we get to some lag tests, first <a href="images/WrpTool-Development-3.jpg">200,000 trees</a> then <a href="images/WrpTool-Development-4.jpg">500,000 trees</a> all on flat 50m elevation terrain.
 </p>
 
 </section>
