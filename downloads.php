@@ -20,14 +20,14 @@
 
 <section>
 <h2>All downloads related to WrpTool</h2>
-<p>Download WrpTool v0.906 Release (base install) <a href="downloads/WrpTool.v0.906.Release.rar">WrpTool.v0.906.Release.rar</a><br>
-Download WrpTool v0.950 upgrade (exe + manual) <a href="downloads/WrpTool.v0.950.Upgrade.rar">WrpTool.v0.950.Upgrade.rar</a>
+<p>Download WrpTool v0.906 Release (base install) WrpTool.v0.906.Release.rar <a href="magnet:?xt=urn:btih:3f295fb271ec0612d0227d60c86cfc847f1ef608&xt=urn:btmh:1220e5ca780390165e15e42820eab427e8ad1a8b4b08b4ba15c053cbd44e6234d415&dn=WrpTool.v0.906.Release.rar&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Torrent Magnet</a><br>
+Download WrpTool v0.950 upgrade (exe + manual) WrpTool.v0.950.Upgrade.rar <a href="magnet:?xt=urn:btih:36674e64d761dda2b5f4ccc61284aef955dc8413&xt=urn:btmh:1220f2f7052de20060e171948ede74351c8a3ca766764f80db4f27408f5006c8bcc7&dn=WrpTool.v0.950.Upgrade.rar&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Torrent Magnet</a>.
 </p>
 
 <p>Notice that first time users need to download both of the above rars, old v0.906 users can download only the upgrade and unrar it to their existing dir to get the v0.95 running. Please, please we plead to you to read WrpTool_manual.pdf included in the download.
 </p>
 
-<p>Download ODOL Explorer v2.0, MLOD viewer and converter <a href="downloads/ODOL_Explorer_v2.0.rar">ODOL_Explorer_v2.0.rar</a>
+<p>Download ODOL Explorer v2.0, MLOD viewer and converter ODOL_Explorer_v2.0.rar <a href="magnet:?xt=urn:btih:cb1b5d7883c7813fa80090293a553d491890241d&xt=urn:btmh:12202c2cf5d1ffaa48eb8b5bd01f40382ce3db809c92668f55b687a6e901b943b33c&dn=ODOL_Explorer_v2.0.rar&tr=udp%3a%2f%2ftracker.opentrackr.org%3a1337%2fannounce&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a6969%2fannounce">Torrent Magnet</a>.
 </p>
 
 <p>WrpTool system requirements: Windows 2000/XP and OFP (preferably v1.96+).
