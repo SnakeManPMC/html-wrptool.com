@@ -14,12 +14,15 @@
 <body>
 
 <header>
-<?php include("include/google-ads.php"); ?>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>WrpTool</h1>
 <p>Welcome to WrpTool.</p>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 <h2>WrpTool - The Best Island / Terrain Editor for OFP</h2>
 <p><a href="images/wrptool-big.jpg"><img src="images/wrptool-small.jpg" width="128" height="128" alt="WrpTool"></a>
 </p>
@@ -72,12 +75,16 @@
 How <a href="images/wrp.gif">cells</a> are set up. How <a href="images/Forest.gif">forest 3d</a> objects are set up.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p><a href="http://www.pmctactical.org/ofp/">PMC Tactical Operation Flashpoint</a>, <a href="http://pmc.editing.wiki">PMC Editing Wiki</a></p>
 <p><i>PMC WrpTool 2003 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>

@@ -13,10 +13,14 @@
 <body>
 
 <header>
+<?php include("/var/www/include/ads.php"); ?>
+<?php include("/var/www/include/header-start.php"); ?>
 <h1>PMC WrpTool News</h1>
+<?php include("/var/www/include/header-end.php"); ?>
 </header>
 
 <section>
+<?php include("/var/www/include/section-start.php"); ?>
 	<h2>WrpTool News</h2>
 
 <p><b>--- Oct 28th, 2016. wrptool.com domain opened!</b><br>
@@ -111,13 +115,17 @@ First experiment to place certain <a href="images/wrptool-09.jpg">objectives per
 <p>Some screenshots of the the work this util can do. <a href="images/WrpTool-Development-1.jpg">First image</a> at Jan 23rd, 2003, showing just flat terrain with one object - a tree. Next image is bit buggy code, <a href="images/WrpTool-Development-2.jpg">bunch of trees</a> in a line. Then we get to some lag tests, first <a href="images/WrpTool-Development-3.jpg">200,000 trees</a> then <a href="images/WrpTool-Development-4.jpg">500,000 trees</a> all on flat 50m elevation terrain.
 </p>
 
+<?php include("/var/www/include/section-end.php"); ?>
 </section>
 
 <footer>
+<?php include("/var/www/include/footer-start.php"); ?>
 <p>Back to <a href="index.php">PMC WrpTool root page</a></p>
 <p><a href="http://www.pmctactical.org/ofp/">PMC Tactical Operation Flashpoint</a>, <a href="http://pmc.editing.wiki">PMC Editing Wiki</a></p>
 <p><i>PMC WrpTool 2003 - <?php print(date("Y")); ?>.</i></p>
-<?php include("include/w3-validator-logo.php"); ?>
+<?php include("/var/www/include/footer-end.php"); ?>
+<?php include("/var/www/include/support.php"); ?>
+<?php include("/var/www/include/w3-validator-logo.php"); ?>
 </footer>
 
 </body>
